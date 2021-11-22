@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HumanResources.iml" filepath="$PROJECT_DIR$/HumanResources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HumanResources.java/HumanResources.java.iml" filepath="$PROJECT_DIR$/HumanResources.java/HumanResources.java.iml" />
+    </modules>
+  </component>
+</project>
